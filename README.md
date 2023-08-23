@@ -59,6 +59,3 @@ struct BottomButtonsDesign: View {
   }
 }
 ```
-## Screenshots of the App
-Here is what some of the screens looked like.
-![](https://ianspresney.com/assets/img/overwatchapp.png)
